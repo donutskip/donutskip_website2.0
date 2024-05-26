@@ -3,3 +3,5 @@ description: Website built by Donut for Donut 🍩
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
