@@ -9,9 +9,9 @@ Donut (_Jonas_) is now a DevNet Engineer & a Network Engineer that is based in t
 
 > What I do for a living: **Offensive Security, Ethical Hacking, Network Engineering, Automation**
 
-> What I do when I'm not working: **Triathlon 🏊🏽‍♂️🚴🏽🏃🏽, Boxing 🥊**
+> Outside of work I train 🏊🏽‍♂️🚴🏽🏃🏽🥊
 
-> Also: I'm a business man who does e-commerce 🛒🌐
+> And handle my business 🛒🌐
 
 > ✝️ **JESUS** _is my waymaker, miracle worker, promise keeper, light in the darkness - Isaiah 42:16_ 
 
