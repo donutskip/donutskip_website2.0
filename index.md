@@ -11,7 +11,7 @@ Donut (_Jonas_) is now a DevNet Engineer & a Network Engineer that is based in t
 
 > Outside of work I train 🏊🏽‍♂️🚴🏽🏃🏽🥊
 
-> And handle my business 🛒🌐
+> And I manage my business 🛒🌐
 
 > ✝️ **JESUS** _is my waymaker, miracle worker, promise keeper, light in the darkness - Isaiah 42:16_ 
 
