@@ -5,7 +5,7 @@ layout: default
 ![Donut](assets/images/me2.png){:class="resized-image"}
 # #WhoAmI 
 
-Donut (_Jonas_) is now a DevNet Engineer & a Network Engineer that is based in the Philippines 🇵🇭. Currently working for Decypher Technologies Inc, a company based in Colorado/Florida USA. He was formerly a Offensive Security Engineer (Penetration Tester) for a Cybersecurity & Compliance Solutions company based in Chicago Illinois. 
+Donut (_Jonas_) is now a DevNet Engineer & a Network Engineer that is based in the Philippines 🇵🇭. Currently working for Decypher Technologies Inc, a company based in Colorado/Florida USA. When he is not working he's a penetration tester & a Security Researcher by hobby (for now). He was formerly a Offensive Security Engineer (Penetration Tester) for a Cybersecurity & Compliance Solutions company based in Chicago Illinois. 
 
 > What I do for a living: **Offensive Security, Ethical Hacking, Network Engineering, Automation**
 
